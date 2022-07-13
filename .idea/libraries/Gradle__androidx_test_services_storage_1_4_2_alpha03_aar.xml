@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.services:storage:1.4.2-alpha03@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../chatbot-watson-android-master/.gradle/7.2/caches/transforms-3/fd6f12d8c830c5c03052440060844b65/transformed/jetified-storage-1.4.2-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../chatbot-watson-android-master/.gradle/7.2/caches/transforms-3/fd6f12d8c830c5c03052440060844b65/transformed/jetified-storage-1.4.2-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../chatbot-watson-android-master/.gradle/7.2/caches/transforms-3/fd6f12d8c830c5c03052440060844b65/transformed/jetified-storage-1.4.2-alpha03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../chatbot-watson-android-master/.gradle/7.2/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2-alpha03/2fbd572f25e956a60d8d348600995b5941e44f7d/storage-1.4.2-alpha03-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../chatbot-watson-android-master/.gradle/7.2/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2-alpha03/dab38a9a411853a076b2e09cf1c8ab4c1b84d7b2/storage-1.4.2-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
